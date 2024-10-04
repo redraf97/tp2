@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-modification de la ligne 
+modification finale manuelle 
 
 
 ```
